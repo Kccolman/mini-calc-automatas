@@ -29,17 +29,3 @@ del archivo o se invoca incorrectamente el programa.
 - `test_minicalc.py` contiene las pruebas automatizadas.
 - `ejemplos/` contiene un programa válido y tres archivos con errores.
 
-## Repositorio del equipo
-
-1. Una persona del equipo crea el repositorio en GitHub e invita a los demás integrantes.
-2. Suban el contenido de esta carpeta al repositorio. Cada integrante puede
-   trabajar en su propia rama y aportar una mejora o prueba identificable.
-3. Antes de hacer su commit, cada integrante debe comprobar que Git use el nombre
-   y un correo vinculados a su cuenta de GitHub. Una vez integradas las ramas,
-   revisen que el historial muestre al menos un commit de cada integrante.
-4. Incorporen el enlace del repositorio al informe y completen la portada antes
-   de exportar el PDF para el Aula Virtual.
-
-Temas para distribuir el trabajo entre los seis integrantes: tabla del AFD,
-reconocimiento de tokens, transformación de la gramática, parser de expresiones,
-mensajes de error y pruebas con archivos.
